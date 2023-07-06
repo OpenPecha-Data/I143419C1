@@ -1,0 +1,99 @@
+id: 5a3ef2cf595541718abf90aaf8bf84b8
+annotation_type: Language
+revision: '00001'
+annotations:
+  0b5254b7aa9f435d8e5d08ca8942f067:
+    span:
+      start: 0
+      end: 150
+    language: en
+  30b7fec07ca34e5fac68c0d8e20932bf:
+    span:
+      start: 189
+      end: 639
+    language: en
+  dc4ea2a830e446878cdc191f2113babb:
+    span:
+      start: 34025
+      end: 34048
+    language: en
+  044b34f195d343a2805f19042d92b41b:
+    span:
+      start: 206203
+      end: 206231
+    language: en
+  d6fc62b1e99843ad99dcb4db6b57637a:
+    span:
+      start: 270393
+      end: 270435
+    language: en
+  81be65988478415189648483321440b9:
+    span:
+      start: 329411
+      end: 329454
+    language: en
+  7b31421c11534335928ad899c711f84b:
+    span:
+      start: 441377
+      end: 441416
+    language: en
+  a9aa222cfc7541818c46d2d3ae56a15a:
+    span:
+      start: 512133
+      end: 512154
+    language: en
+  8c02d980a96d444583b6a2eda6379e77:
+    span:
+      start: 837619
+      end: 837647
+    language: en
+  3b4b8d1785d14163b80a772097719eba:
+    span:
+      start: 907474
+      end: 907515
+    language: en
+  af98a22411024cccbca64b17fe4685e0:
+    span:
+      start: 948741
+      end: 948769
+    language: en
+  6b6342aed22e43638efa34f915a42193:
+    span:
+      start: 997036
+      end: 997096
+    language: en
+  54cae8788d7341858880fe65aad94ffa:
+    span:
+      start: 1124426
+      end: 1124460
+    language: en
+  634bb4d9733e4a898687ee14d65859a6:
+    span:
+      start: 1127153
+      end: 1127246
+    language: en
+  44565cb27eaf4fe786dba7747908e445:
+    span:
+      start: 1248115
+      end: 1248281
+    language: en
+  4988431ab16143d3bcf5d463f4296fc2:
+    span:
+      start: 1248309
+      end: 1250641
+    language: en
+  16deef4a828648729f4c2ccabdd92476:
+    span:
+      start: 1250680
+      end: 1250789
+    language: en
+  758c3da230184bbd97e9fa8a16cff720:
+    span:
+      start: 1250886
+      end: 1250953
+    language: en
+  4994e51bcc5c43cb909dccadfd5c48e3:
+    span:
+      start: 1250982
+      end: 1251521
+    language: en

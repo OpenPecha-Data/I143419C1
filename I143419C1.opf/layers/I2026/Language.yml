@@ -1,0 +1,99 @@
+id: b988bdc993864d68987c622b5efacf26
+annotation_type: Language
+revision: '00001'
+annotations:
+  c8746b96caad46e183d66bd5a422ec37:
+    span:
+      start: 0
+      end: 146
+    language: en
+  f70fdd8314a3418bb33fb3b25850b711:
+    span:
+      start: 186
+      end: 670
+    language: en
+  b033f673afe34ae88365947f81b52b42:
+    span:
+      start: 1257
+      end: 1284
+    language: sa-Deva
+  1b8d5a37fed7445ca0584046b408a9c2:
+    span:
+      start: 75514
+      end: 75536
+    language: en
+  38a0de84349345e49c221b5becb3e04c:
+    span:
+      start: 101774
+      end: 101801
+    language: en
+  e16a3adab2cf43fb8ba8d8258109da4d:
+    span:
+      start: 102808
+      end: 102829
+    language: en
+  c15836daccd743febbe1b2df19691c49:
+    span:
+      start: 104873
+      end: 104900
+    language: en
+  1ebd8e2f19c841c5a8ac20ca055fa570:
+    span:
+      start: 226603
+      end: 226635
+    language: en
+  c536b1b9221b41e1b0fe5dae16b4353e:
+    span:
+      start: 242338
+      end: 242369
+    language: en
+  9d62356541264604bc96418651601de5:
+    span:
+      start: 266625
+      end: 266667
+    language: en
+  5f13faff717d4f87859c2e582916bbae:
+    span:
+      start: 307218
+      end: 307238
+    language: en
+  a70dbc11ea104b8fb92dd834f9a4b12d:
+    span:
+      start: 308126
+      end: 308149
+    language: en
+  05907864f5474aa19b25f431853ec7af:
+    span:
+      start: 360933
+      end: 360955
+    language: en
+  de9c0121ee3448f3ad3f8ed0ffe656f3:
+    span:
+      start: 362646
+      end: 362686
+    language: en
+  398ab8b7bd51423d8cdd0d82aa80181d:
+    span:
+      start: 425081
+      end: 425251
+    language: en
+  b568a291d59848bab8fd4d91cc782d5c:
+    span:
+      start: 425279
+      end: 427614
+    language: en
+  59ae0e341a0043ada421f0200fdd5322:
+    span:
+      start: 427654
+      end: 427765
+    language: en
+  990d0d5725294bd0b29b2d5deffc3da5:
+    span:
+      start: 427827
+      end: 427895
+    language: en
+  536fab0afa6b41d0ac6d90bdbc3a4458:
+    span:
+      start: 427923
+      end: 428467
+    language: en
